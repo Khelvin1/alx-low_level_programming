@@ -10,7 +10,6 @@
 
 
 int main(void)
-
 {
 
 int p, q;
@@ -33,3 +32,4 @@ putchar(' ');
 }
 putchar('\n');
 return (0);
+}
